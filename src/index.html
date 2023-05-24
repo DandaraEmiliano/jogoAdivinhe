@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adivinhe o Número</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div id="emoji-rain"></div>
+<div class="container">
+    <h1>Adivinhe o Número</h1>
+    <p>Estou pensando em um número. Tente adivinhar!</p>
+    <input type="number" id="palpite" placeholder="Digite o seu palpite">
+    <button onclick="verificarPalpite()">Verificar</button>
+    <audio id="audio" src="../Jogo/assets/xuxa-parabens.mp3"></audio>
+    <p id="mensagem"></p>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>
