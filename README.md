@@ -6,7 +6,7 @@ Um jogo simples em JavaScript e Python onde o jogador precisa adivinhar um núme
 
 ## Como Jogar
 
-1. Abra o jogo no seu navegador [clicando aqui](https://github.com/DandaraEmiliano/adivinhe-o-numero/index.html).
+1. Abra o jogo no seu navegador [clicando aqui](https://github.com/DandaraEmiliano.github.io/adivinhe-o-numero/index.html).
 2. O jogo irá gerar um número secreto entre 1 e 100.
 3. Digite um número no campo de entrada e clique no botão "Verificar".
 4. O jogo fornecerá feedback sobre o palpite:
